@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "title": "A new event",
+      "image": "https://www.japan-travel.cn/images/story_guide/Sg010_3068_128/Sg010_3068_128_750x503.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    }
+  ],
+  "users": []
+}
